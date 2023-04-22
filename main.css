@@ -1,0 +1,21 @@
+a {
+    color: #3399ff;
+}
+
+a:hover {
+    color: white;
+}
+
+a:visited {
+    color: #cc99ff;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #232023;
+    color: white;
+}
+
+hr {
+    color: #f2f2f2
+}
